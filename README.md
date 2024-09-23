@@ -1,3 +1,6 @@
+# **Wind-Turbine-Power-Generation-Forecasting**
+
+
 > Secured Rank 18 out of 100 participants in a national-level hackathon focused on forecasting wind turbine power generation using advanced regression techniques.
 
 > Applied machine learning algorithms to accurately predict power output, showcasing strong analytical and regression modeling skills.
